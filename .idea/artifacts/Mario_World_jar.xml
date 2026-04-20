@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Mario_World:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Mario_World_jar</output-path>
-    <root id="archive" name="Mario-World.jar">
-      <element id="module-output" name="Mario-World" />
-    </root>
-  </artifact>
-</component>
