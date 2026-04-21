@@ -54,7 +54,7 @@ Sistema que renderiza formas geométricas caso os *sprites* não sejam encontrad
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Java (JDK 11 ou superior recomendado)
+* **Linguagem:** Java (JDK 17 ou 21 recomendado)
 * **Interface Gráfica (GUI):** Java AWT e Swing
 
   * `JFrame`
