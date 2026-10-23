@@ -1,7 +1,3 @@
-Aqui está seu README formatado, organizado e pronto para copiar e colar no GitHub:
-
----
-
 # 🍄 Super Mario POO
 
 Um jogo de plataforma 2D inspirado no clássico Super Mario, desenvolvido inteiramente em **Java**.
@@ -104,7 +100,3 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 * Certifique-se de que os arquivos de imagem (*sprites*) estejam corretamente posicionados no projeto.
 * Caso não estejam, o sistema utilizará o **fallback gráfico automaticamente**.
-
----
-
-Se quiser, posso deixar esse README ainda mais profissional (com GIF do jogo, badges, estrutura de pastas ou seção de screenshots).
